@@ -5,12 +5,12 @@
 Love to create apps! 🧤
 
 # TODO NEXT
-[ ] firebase setup
-    [ ] firebase CRUD
-    [ ] realtime Database
+- [ ] firebase setup
+   - [ ] firebase CRUD
+   - [ ] realtime Database
 
-[ ] Designing List View
-    [ ] add functionality
+- [ ] Designing List View
+   - [ ] add functionality
 
 # note-app (note-me)
 
